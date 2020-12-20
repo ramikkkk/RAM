@@ -1,0 +1,3 @@
+﻿  RS.cpp
+C:\Users\HP\Desktop\S\SNAKE\SNAKE\RS.cpp(601): warning C4715: “movesnake”: 不是所有的控件路径都返回值
+  SNAKE.vcxproj -> C:\Users\HP\Desktop\S\SNAKE\Debug\SNAKE.exe
